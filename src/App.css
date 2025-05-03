@@ -1,0 +1,4 @@
+.bg-transparent-custom {
+    background-color: transparent;
+    pointer-events: none;
+}
